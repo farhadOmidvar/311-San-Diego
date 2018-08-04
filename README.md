@@ -7,4 +7,4 @@ Use 311 call data from City of San Diego to answer these questions:
 * Is there any relation between the number of 311 calls per population, income bracket, crime rate
 * How do different neighborhoods in San Diego that vary in household income differ in the types of 311 calls
 
-#### We can collect our data from City of San Diego and US Census Bureau
+#### We can collect our data from [City of San Diego](https://data.sandiego.gov/datasets/get-it-done-311) and US Census Bureau
