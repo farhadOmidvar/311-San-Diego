@@ -103,5 +103,11 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+
+################ADDED BY TEAM###########################
+.DS_Store
 config.py
+
+# too big to upload to git
 get_it_done_311_requests_datasd.csv
+
