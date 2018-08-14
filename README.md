@@ -15,4 +15,4 @@
 ### Data Sources Used:
 * [City of San Diego](https://data.sandiego.gov/datasets/get-it-done-311)
 * [US Census Bureau](https://www.census.gov/data.html)
-* [Open Weather Map](https://www.openweathermap.org
+* [Open Weather Map](https://www.openweathermap.org)
